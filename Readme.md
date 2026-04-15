@@ -76,3 +76,8 @@ isValid := v.GreaterThan(v2)
 <div align="center">
 <b>Secure robust version handling inside Go.</b>
 </div>
+
+## Contributors
+
+- Tunahan Coşgun — <info@tunahancosgun.dev>
+- Duygu Durmuş — <duygudurmus12@gmail.com>
